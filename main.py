@@ -45,6 +45,9 @@ with col6:
 st.markdown("")
 st.markdown("")
 
+
+
+
 col7, col8, col9, col10, col11, col12 = st.columns([2, 2, 2, 2, 2, 2])
 with col7:
     st.markdown("""<center><img src="https://statkomat.com/streamlit-ugi/pls-sem.gif" width="50"><br><a href = 'https://aplikasi-plssem.streamlit.app//' target = '_blank' style = 'text-decoration:none'></center><center><font color = 'orange'><b>STRUCTURAL EQUATION MODELING (PLS-SEM)</b></font></center></a>""",unsafe_allow_html=True)
