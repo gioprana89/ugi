@@ -45,9 +45,6 @@ with col6:
 st.markdown("")
 st.markdown("")
 
-
-
-
 col7, col8, col9, col10, col11, col12 = st.columns([2, 2, 2, 2, 2, 2])
 with col7:
     st.markdown("""<center><img src="https://statkomat.com/streamlit-ugi/pls-sem.gif" width="50"><br><a href = 'https://aplikasi-plssem.streamlit.app//' target = '_blank' style = 'text-decoration:none'></center><center><font color = 'orange'><b>STRUCTURAL EQUATION MODELING (PLS-SEM)</b></font></center></a>""",unsafe_allow_html=True)
@@ -68,7 +65,10 @@ with col12:
 
 
 
+st.markdown("")
+st.markdown("")
 
+st.markdown("""<a href = 'https://saweria.co/statkomat' target = '_blank' style = 'text-decoration:none'><center><img src="https://statkomat.com/streamlit-ugi/kopi.gif" width="150"></center></a><br><center><b><a href = 'https://saweria.co/statkomat' target = '_blank' style = 'text-decoration:none'><font color = 'orange' size = 7>Buy Me a Cup of Coffee</font></a></b></font></center>""",unsafe_allow_html=True)
 
 
 
