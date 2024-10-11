@@ -20,6 +20,12 @@ st.write('''<style>
 
 
 
+
+
+
+
+
+
 st.markdown(
     """<center><img src="https://statkomat.com/gambar/ugi.png" width="500"></center>
     <h2 style='text-align: justify; color: blue;'><center>Prana Ugiana Gio, Founder of <a href = 'https://statcal.com/' target = '_blank' style = 'text-decoration:none'><font color = 'orange'>STATCAL</a></center></h2>""",
