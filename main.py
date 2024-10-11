@@ -65,6 +65,59 @@ with col12:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st.markdown("")
+st.markdown("")
+
+col13, col14, col15, col16, col17, col18 = st.columns([2, 2, 2, 2, 2, 2])
+with col3:
+    st.markdown("""<center><img src="https://statkomat.com/streamlit-ugi/cfa.gif" width="50"><br><a href = 'https://cfa-aplikasi.streamlit.app/' target = '_blank' style = 'text-decoration:none'></center><center><font color = 'orange'><b>CONFIRMATORY FACTOR ANALYSIS (CFA)</b></font></center></a>""",unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 st.markdown("")
 st.markdown("")
 
